@@ -1,6 +1,7 @@
 # *jQuery-slider* #
 
 This plugin implement a slip effect like github dose.
+[example] (http://jsfiddle.net/A4rrd/)
 
 
 ## Usage:
